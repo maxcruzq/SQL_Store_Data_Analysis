@@ -1,4 +1,4 @@
-# SQL_Store_Data_Analysis
+# SQL Store Data Analysis
 
 ## Overview
 MySQL project that answer real business question of a store dataset, available from w3school website
@@ -11,6 +11,8 @@ MySQL project that answer real business question of a store dataset, available f
 * Orders (OrderID, CustomerID, EmployeeID, OrderDate, ShipperID)
 * Products(ProductID, ProductName, SupplierID, CategoryID, Unit, Price)
 * Shippers (ShipperID, ShipperName, Phone)
+
+![w3schools_database_schema](https://github.com/maxcruzq/SQL_Store_Data_Analysis/assets/132103792/a076f247-d4fb-4cd7-aada-ee5f88aca8ab)
 
 ## Real Business Questions
 ### Basic Level
